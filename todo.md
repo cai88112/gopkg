@@ -1,4 +1,4 @@
-# 用户贡献表
+﻿# 用户贡献表
 ### (###表示该包未被领养)
 
     archive
@@ -7,12 +7,12 @@
     bufio             : stevewang		-
     builtin           : achun			2013-03-26	finished
     bytes             : stevewang		-
-    compress          : ###				-
-        - bzip2       : ###				-
-        - flate       : ###				-
+    compress          : rujews		    2015-01-31   finished
+        - bzip2       : rujews			2015-01-31   finished
+        - flate       : rujews			2015-01-31   finished
         - gzip        : Unknown			2013-03-11
-        - lzw         : ###				-
-        - zlib        : ###				-
+        - lzw         : rujews			2015-01-31   finished
+        - zlib        : lingdecong		2014-11-27
     container         : weager			2013-03-10
         - heap        : weager			2013-03-10
         - list        : weager			2013-03-10
@@ -51,14 +51,14 @@
         - base64      : boilingbit		2013-03-08
         - binary      : wjvlangz		2013-03-25  finished
         - csv         : metadao			-
-        - gob         : ###				-
+        - gob         : sndnvaps               2014-07-14 finished 				-
         - hex         : caoqx			2013-04-23
         - json        : xiocode			2013-03-10
         - pem         : ###				-
         - xml         : 0x55aa			2013-03-15
-    errors            : ###				-
+    errors            :                                         finished				-
     expvar            : fairlyblank		2013-07-16	finished
-    flag              : wankai			-
+    flag              : faberliu		2014-11-10  finished
     fmt               : liudch			2013-03-08	finished
     go                : ###				-
         - ast         : ###				-
@@ -84,7 +84,7 @@
     index             : starchou		-
         - suffixarray : starchou		-
     io                : lodevil			-
-        - ioutil      : ###				-
+        - ioutil      : qqcocobao				-
     log               : cdxahz          2012-03-10	finished
         - syslog      : ###				-
     math              : ###				-
@@ -114,7 +114,7 @@
         - debug       : wendal			2013-03-10
         - pprof       : ###				-
     sort              : Hubery			2013-03-09	finished
-    strconv           : sun8911879		-
+    strconv           : vzever  		2014-07-15  finished
     strings           : astaxie			2013-03-08	finished
     sync              : SnowWee			2013-03-23  finished
         - atomic      : SnowWee			2013-03-23  finished
